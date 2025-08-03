@@ -1,0 +1,7 @@
+openai
+pyobjc-framework-Quartz
+pytesseract
+rumps
+Pillow
+dotenv
+pyperclip
